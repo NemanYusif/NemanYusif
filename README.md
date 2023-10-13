@@ -1,9 +1,6 @@
-https://educationecosystem.com/blog/wp-content/uploads/2018/12/3-min_imik7d.png
-
+<img src="https://camo.githubusercontent.com/04e1fb71da995e01cd6b0aef1b07b2d9745edd584d7b47236f083c3cd1d1bfe5/68747470733a2f2f7777772e69616b6164656d692e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f31302f7068702d7765622d64657369676e2e676966" >
 <h1 align="center">Hi 👋, I'm Neman Yusif</h1>
 <h3 align="center">I am Frontend Developer from Azerbaijan</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nemanyusif&label=Profile%20views&color=0e75b6&style=flat" alt="nemanyusif" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -18,8 +15,6 @@ https://educationecosystem.com/blog/wp-content/uploads/2018/12/3-min_imik7d.png
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/NemanYusif"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="NemanYusif" /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nemanyusif&show_icons=true&locale=en&layout=compact" alt="nemanyusif" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nemanyusif&show_icons=true&locale=en" alt="nemanyusif" /></p>
 
